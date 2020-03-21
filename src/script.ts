@@ -1,2 +1,2 @@
-const message: string  = "Typescript working"!;
+const message: string = "Typescript working"!;
 console.log(message);
